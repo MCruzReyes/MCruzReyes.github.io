@@ -55,14 +55,3 @@ Cluster Cepheids (Link to data)
 
 [Mauricio](mailto:mauricio.cruzre@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-
-
-
-
-
-
-
-
-
-
-
