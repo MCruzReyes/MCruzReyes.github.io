@@ -48,7 +48,7 @@ Giordano
 
 
 ### Hubble constant
-Code and small explanation.
+[code](https://github.com/bastian-lengen-epfl/DistanceLadder) and small explanation.
 ![Vcen!](hubble.jpg)
 
 (Link to paper)
@@ -61,12 +61,15 @@ Bastian
 
 
 ### Cluster Cepheids  
-Code and small explanation.
+[Code](https://github.com/MCruzReyes/H1PSTARS) and small explanation.
 
 ![Vcen!](vcen.png)
-Cluster Cepheids (Link to data)
 
 Calibration of (Link to paper)
+
+Cluster Cepheids (Link to data)
+
+
 
 **Authors and contact support**
  
@@ -84,3 +87,5 @@ Calibration of (Link to paper)
 
 
 ### Who we are
+
+More information about the group can be found [here](https://www.epfl.ch/labs/scd/) 
