@@ -1,4 +1,4 @@
-## H1PStars
+# H1PStars
 
 H1P Stars is a project that aims to improve our understanding of the expansion of the universe. To achieve this goal, the group [...]. The objective of this page is to provide all the codes that we have developed throughout our investigation.
 
