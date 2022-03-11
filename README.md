@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/JSaja/github-pages-test/ed
 
 ## Codes, data products and associated papers 
 
-### Radial velocities
+### Radial velocities (GE-CeRVS)
 
 Code and small explanation.
 
@@ -25,7 +25,7 @@ Giordano
 
 
 
-### Hubble constant
+### Distance ladder and Hubble constant
 [code](https://github.com/bastian-lengen-epfl/DistanceLadder) and small explanation.
 ![Vcen!](hubble.jpg)
 
