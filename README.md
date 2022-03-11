@@ -31,9 +31,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## Codes, data products and associated papers 
 
 ### Radial velocities
+
 Code and small explanation.
 
 **Authors and contact support**
+
 Shreeya
 
 Giordano 
@@ -60,6 +62,7 @@ Code and small explanation.
 Cluster Cepheids (Link to data)
 
 Calibration of (Link to paper)
+
 **Authors and contact support**
  
 
