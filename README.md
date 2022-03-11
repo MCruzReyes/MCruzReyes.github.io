@@ -27,7 +27,7 @@ Richard
 
 
 ### Distance ladder and Hubble constant
-[code](https://github.com/bastian-lengen-epfl/DistanceLadder) and small explanation.
+[Code](https://github.com/bastian-lengen-epfl/DistanceLadder) and small explanation.
 ![Vcen!](hubble.jpg)
 
 (Link to paper)
