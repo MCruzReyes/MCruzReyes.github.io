@@ -56,7 +56,7 @@ Bastian
 ### Cluster analysis
 Code and small explanation.
 
-![Vcen!](C:\Users\Mauricio\Documents\GitHub\MCruzReyes.github.io\vcen.png)
+![Vcen!](vcen.png)
 Cluster Cepheids (Link to data)
 
 Calibration of (Link to paper)
