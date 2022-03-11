@@ -1,6 +1,10 @@
 ## H1PStars
 
-You can use the [editor on GitHub](https://github.com/JSaja/github-pages-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+H1P Stars is a project that aims to improve our understanding of the expansion of the universe. To achieve this goal, the group [...]. The objective of this page is to provide all the codes that we have developed throughout our investigation.
+
+More information about the group members, publications and open positions can be found [here](https://www.epfl.ch/labs/scd/). 
+
+
 
 
 
@@ -64,6 +68,4 @@ Cluster Cepheids (Link to data)
 
 
 
-### Who we are
 
-More information about the group can be found [here](https://www.epfl.ch/labs/scd/). 
