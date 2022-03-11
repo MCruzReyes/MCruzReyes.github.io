@@ -4,29 +4,7 @@ You can use the [editor on GitHub](https://github.com/JSaja/github-pages-test/ed
 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Codes, data products and associated papers 
 
@@ -38,7 +16,7 @@ GE-CeRVS Data release 1 (Link to data)
 
 GE-CeRVS  (Link to paper)
 
-**Authors and contact support**
+**Authors and contact support:**
 
 Shreeya
 
@@ -53,7 +31,7 @@ Giordano
 
 (Link to paper)
 
-**Authors and contact support**
+**Authors and contact support:**
 
 Bastian 
 
@@ -71,7 +49,7 @@ Cluster Cepheids (Link to data)
 
 
 
-**Authors and contact support**
+**Authors and contact support:**
  
 
 [Mauricio](mailto:mauricio.cruzre@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
@@ -88,4 +66,4 @@ Cluster Cepheids (Link to data)
 
 ### Who we are
 
-More information about the group can be found [here](https://www.epfl.ch/labs/scd/) 
+More information about the group can be found [here](https://www.epfl.ch/labs/scd/). 
