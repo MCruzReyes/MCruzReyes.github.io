@@ -28,25 +28,43 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Publications
-
-
-## Codes
+## Codes, data products and associated papers 
 
 ### Radial velocities
+Code and small explanation.
 
+Authors and contact support:
+Shreeya
 Giordano 
 
+GE-CeRVS Data release 1 (Link to data)
+GE-CeRVS  (Link to paper)
 
 
 ### Hubble constant
+Code and small explanation.
+Authors and contact support: 
 Bastian 
+(Link to paper)
+
 
 ### Cluster analysis
+Code and small explanation.
+Cluster Cepheids (Link to data)
+Calibration of (Link to paper)
+Authors and contact support: 
 [Mauricio](mailto:mauricio.cruzre@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
-## Data products 
+##  
+
+
+
+
+### Cluster cepheids 
+
+
+
 
 ### Support or Contact
 
