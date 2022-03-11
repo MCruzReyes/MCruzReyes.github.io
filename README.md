@@ -55,7 +55,7 @@ Bastian
 (Link to paper)
 
 
-### Cluster analysis
+### Cepheids inside clusters
 Code and small explanation.
 
 ![Vcen!](vcen.png)
@@ -69,12 +69,11 @@ Calibration of (Link to paper)
 [Mauricio](mailto:mauricio.cruzre@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
-##  
 
 
 
 
-### Cluster cepheids 
+
 
 
 
