@@ -43,7 +43,7 @@ Giordano
 Bastian 
 
 ### Cluster analysis
-[Mauricio](mauricio.cruzre@gmail.com)
+[Mauricio](mailto:mauricio.cruzre@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 ## Data products 
