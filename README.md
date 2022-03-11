@@ -8,7 +8,8 @@ More information about the group members, publications and open positions can be
 
 
 
-
+* TOC
+{:toc}
 
 ## Codes, data products and associated papers 
 
