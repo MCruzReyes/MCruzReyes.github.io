@@ -34,28 +34,33 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Code and small explanation.
 
+GE-CeRVS Data release 1 (Link to data)
+
+GE-CeRVS  (Link to paper)
+
 **Authors and contact support**
 
 Shreeya
 
 Giordano 
 
-GE-CeRVS Data release 1 (Link to data)
 
-GE-CeRVS  (Link to paper)
 
 
 ### Hubble constant
 Code and small explanation.
+![Vcen!](hubble.jpg)
+
+(Link to paper)
 
 **Authors and contact support**
 
 Bastian 
 
-(Link to paper)
 
 
-### Cepheids inside clusters
+
+### Cluster Cepheids  
 Code and small explanation.
 
 ![Vcen!](vcen.png)
