@@ -8,11 +8,11 @@ More information about the group members, publications and open positions can be
 
 
 
-* TOC
-{:toc}
+
 
 ## Codes, data products and associated papers 
-
+* TOC
+{:toc}
 ### Radial velocities (GE-CeRVS)
 
 Code and small explanation.
