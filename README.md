@@ -1,4 +1,4 @@
-H1PStars is a project that aims to improve our understanding of the rate of the expansion of the universe. To achieve this goal, the group [...]. The objective of this page is to concentrate in a single place, all the codes that have been developed to achieve this ambitious task. More information about the group members, publications and open positions in the group can be found [here](https://www.epfl.ch/labs/scd/). 
+H1PStars is a project that aims to improve our understanding of the expansion of the universe. To achieve this goal, the group [...]. The objective of this page is to concentrate in a single place, all the codes that have been developed to achieve this ambitious task. More information about the group members, publications and open positions in the group can be found [here](https://www.epfl.ch/labs/scd/). 
 
 
 
