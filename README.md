@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Radial velocities
 Code and small explanation.
 
-Authors and contact support:
+**Authors and contact support**
 Shreeya
 
 Giordano 
@@ -46,7 +46,7 @@ GE-CeRVS  (Link to paper)
 ### Hubble constant
 Code and small explanation.
 
-Authors and contact support: 
+**Authors and contact support**
 
 Bastian 
 
@@ -60,8 +60,8 @@ Code and small explanation.
 Cluster Cepheids (Link to data)
 
 Calibration of (Link to paper)
-
-Authors and contact support: 
+**Authors and contact support**
+ 
 
 [Mauricio](mailto:mauricio.cruzre@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
