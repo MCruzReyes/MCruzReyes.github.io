@@ -35,24 +35,33 @@ Code and small explanation.
 
 Authors and contact support:
 Shreeya
+
 Giordano 
 
 GE-CeRVS Data release 1 (Link to data)
+
 GE-CeRVS  (Link to paper)
 
 
 ### Hubble constant
 Code and small explanation.
+
 Authors and contact support: 
+
 Bastian 
+
 (Link to paper)
 
 
 ### Cluster analysis
 Code and small explanation.
+
 Cluster Cepheids (Link to data)
+
 Calibration of (Link to paper)
+
 Authors and contact support: 
+
 [Mauricio](mailto:mauricio.cruzre@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
@@ -66,6 +75,4 @@ Authors and contact support:
 
 
 
-### Support or Contact
-
-Having trouble with one of the codes? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Who we are
