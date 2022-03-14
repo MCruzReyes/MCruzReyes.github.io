@@ -34,7 +34,7 @@ Richard
 
 **Authors and contact support:**
 
-Bastian 
+[Bastian](mailto:bastianlengen@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 
 
 
 
