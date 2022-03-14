@@ -21,7 +21,7 @@ GE-CeRVS  (Link to paper)
 
 Shreeya
 
-Giordano 
+[Giordano](mailto:giordano.viviani@epfl.ch?subject=[GitHub]%20Source%20Han%20Sans) 
 
 Richard
 
