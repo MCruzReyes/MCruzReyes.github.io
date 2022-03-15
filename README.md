@@ -19,7 +19,7 @@ GE-CeRVS  (Link to paper)
 
 **Authors and contact support:**
 
-Shreeya
+[Shreeya](mailto:shreeya.shetye@epfl.ch?subject=[GitHub]%20Source%20Han%20Sans) 
 
 [Giordano](mailto:giordano.viviani@epfl.ch?subject=[GitHub]%20Source%20Han%20Sans) 
 
